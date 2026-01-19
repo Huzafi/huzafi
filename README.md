@@ -1,48 +1,51 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Hello+I'm+Huzaifa+👋;AI+Agent+Developer;Automation+and+Chatbot+Specialist;Building+Smart+AI+Systems+💡"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello+I'm+Huzaifa+👋;AI+Agent+Developer;Automation+and+Chatbot+Specialist;Building+Smart+AI+Systems+💡"
     alt="Typing SVG"
   />
 </h1>
 
+<p align="center">
+  <b>💻 AI Agent Developer | 🤖 Automation & Chatbot Specialist | ⚡ Building Agentic AI Systems</b>
+</p>
 
 <p align="center">
-  <b>💻 Passionate Developer | 🤖 AI & Automation Enthusiast | ⚡ Building Agentic Systems</b>
+  🌐 <a href="https://huzaifa-ai-solutions.vercel.app/" target="_blank"><b>Portfolio Website</b></a> •
+  🔗 <a href="https://www.linkedin.com/in/huzaifa-sheikh-b2a012342/" target="_blank"><b>LinkedIn Profile</b></a>
 </p>
 
 ---
 
- 
+I’m **Huzaifa**, an **AI Agent Developer** focused on building intelligent, scalable, and automation-driven AI systems.  
+I specialize in designing **agentic AI architectures** where reasoning, tools, and workflows come together to solve real-world problems efficiently.
 
-I’m deeply focused on building **AI-powered ecosystems** — where automation, intelligence, and performance merge into seamless digital experiences.  
-
-### 💡 Focus Areas  
+### 💡 Focus Areas
 - Agentic AI & Cognitive Automation  
 - AI System Design & Integration  
-- Building Scalable AI Applications  
+- Scalable & Production-Ready AI Applications  
 
-### 🧠 Expertise  
-- **OpenAI Frameworks & SDKs** (Agents, LangGraph, Assistant API)  
-- **MCP & Automation AI Pipelines**  
-- **Prompt & Context Engineering** for reliable agent reasoning  
-- **API Integrations** (Google Gemini, Groq, GitHub, etc.)  
-- **Backend & Deployment** using *FastAPI, Streamlit & Vercel*
-- **Frontend & Backend Development** *Chainlit, *Streamlit, *InteractiveUI's,*Nextjs  
-- **AI Resume & Portfolio Tools** powered by smart agents  
+### 🧠 Expertise
+- **OpenAI Frameworks & SDKs** (Agents SDK, LangGraph, Assistants API)  
+- **Automation Pipelines & MCP-based Systems**  
+- **Prompt, Context & Memory Engineering** for reliable agent reasoning  
+- **API Integrations** (OpenAI, Google Gemini, Groq, GitHub, etc.)  
+- **Backend & Deployment** using *FastAPI, Streamlit & Vercel*  
+- **Frontend & Full-Stack Development** (*Next.js, Chainlit, Streamlit, Interactive UIs*)  
+- **AI Resume Analyzers & Portfolio Tools** powered by smart agents  
 
-✨ Constantly experimenting, refining, and pushing the boundaries of what’s possible with AI.
+✨ Constantly experimenting, refining, and pushing the boundaries of **Agentic AI**.
 
 ---
 
-### 🧰 Tech Stack  
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,nextjs,react,tailwind,html,css,openai,vscode,git,github,docker,postgresql,mysql,azure,ai,langchain,npm" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,nextjs,react,tailwind,html,css,openai,vscode,git,github,docker,postgresql,mysql,azure,langchain,npm" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Huzafi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -52,9 +55,10 @@ I’m deeply focused on building **AI-powered ecosystems** — where automation,
 ---
 
 <p align="center">
-  <i>"The night is long, but the dawn is bright.<br>
-  The struggle is real, but the reward is great.<br>
-  The journey is hard, but the destination is worth it."<br>
-  — Huzaifa 💙</i>
+  <i>
+    "The night is long, but the dawn is bright.<br>
+    The struggle is real, but the reward is great.<br>
+    The journey is hard, but the destination is worth it."<br>
+    — Huzaifa 💙
+  </i>
 </p>
-
