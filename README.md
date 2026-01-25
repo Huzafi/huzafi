@@ -10,14 +10,15 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://huzaifa-ai-solutions.vercel.app/" target="_blank"><b>Portfolio Website</b></a> •
-  🔗 <a href="https://www.linkedin.com/in/huzaifa-sheikh-b2a012342/" target="_blank"><b>LinkedIn Profile</b></a>
+  🌐 <a href="https://huzaifa-ai-solutions.vercel.app/" target="_blank"><b>Huzaifa Sheikh Portfolio</b></a> •
+  🔗 <a href="https://www.linkedin.com/in/huzaifa-sheikh-b2a012342/" target="_blank"><b>Huzaifa Sheikh LinkedIn</b></a>
 </p>
 
 ---
 
-I’m **Huzaifa**, an **AI Agent Developer** focused on building intelligent, scalable, and automation-driven AI systems.  
+I’m **Huzaifa Sheikh**, an **AI Agent Developer** focused on building intelligent, scalable, and automation-driven AI systems.  
 I specialize in designing **agentic AI architectures** where reasoning, tools, and workflows come together to solve real-world problems efficiently.
+Official GitHub profile of Huzaifa Sheikh.
 
 ### 💡 Focus Areas
 - Agentic AI & Cognitive Automation  
