@@ -20,12 +20,12 @@ I’m **Huzaifa Sheikh**, an **AI Agent Developer** focused on building intellig
 I specialize in designing **agentic AI architectures** where reasoning, tools, and workflows come together to solve real-world problems efficiently.
 Official GitHub profile of Huzaifa Sheikh.
 
-### 💡 Focus Areas
+## 💡 Focus Areas
 - Agentic AI & Cognitive Automation  
 - AI System Design & Integration  
 - Scalable & Production-Ready AI Applications  
 
-### 🧠 Expertise
+## 🧠 Expertise
 - **OpenAI Frameworks & SDKs** (Agents SDK, LangGraph, Assistants API)  
 - **Automation Pipelines & MCP-based Systems**  
 - **Prompt, Context & Memory Engineering** for reliable agent reasoning  
