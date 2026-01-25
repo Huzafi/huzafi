@@ -38,7 +38,7 @@ Official GitHub profile of Huzaifa Sheikh.
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,nextjs,react,tailwind,html,css,openai,vscode,git,github,docker,postgresql,mysql,azure,langchain,npm" />
@@ -46,7 +46,7 @@ Official GitHub profile of Huzaifa Sheikh.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Huzafi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
