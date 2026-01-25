@@ -1,3 +1,6 @@
+# Huzaifa Sheikh | AI Agent Developer & Automation Engineer
+
+
 <h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello+I'm+Huzaifa+👋;AI+Agent+Developer;Automation+and+Chatbot+Specialist;Building+Smart+AI+Systems+💡"
